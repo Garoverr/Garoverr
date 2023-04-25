@@ -4,7 +4,7 @@
 - 📫 You can reach me by mail :  jacques.sapin@epitech.eu
 
 
-## some projects from Epitech
+## some math projects from Epitech
 
 | Techno | Link | Description |
 |:---:|:---:|:---:|
