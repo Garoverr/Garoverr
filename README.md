@@ -8,5 +8,7 @@
 
 | Techno | Link | Description |
 |:---:|:---:|:---:|
-| ![My Skills](https://skillicons.dev/icons?i=python,regex) | [106bombyx]->[106bombyx](https://github.com/Garoverr/106bombyx) | Analysis of the population dynamics of silk moths (Bombyx)|
-| ![My Skills](https://skillicons.dev/icons?i=python,regex) | [107transfer]->[107transfer](https://github.com/Garoverr/107transfer) | Optimization of Transfer Function Computations |
+| ![My Skills](https://skillicons.dev/icons?i=python) | [106bombyx]->[106bombyx](https://github.com/Garoverr/106bombyx) | Analysis of the Population Dynamics of Silk Moths (Bombyx)|
+| ![My Skills](https://skillicons.dev/icons?i=python) | [107transfer]->[107transfer](https://github.com/Garoverr/107transfer) | Optimization of Transfer Function Computations |
+| ![My Skills](https://skillicons.dev/icons?i=python) | [108trigo]->[108trigo](https://github.com/Garoverr/108trigo) | Matrix Power Series |
+| ![My Skills](https://skillicons.dev/icons?i=python) | [109titration]->[109titration](https://github.com/Garoverr/109titration) | Equivalence Point's Calculation for Benzoic Acid |
