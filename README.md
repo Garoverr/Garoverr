@@ -3,7 +3,10 @@
 - 🌱 I’m currently learning C and professional life !
 - 📫 You can reach me by mail :  jacques.sapin@epitech.eu
 
-<!---
-Garoverr/Garoverr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+## some projects from Epitech
+
+| Techno | Link | Description |
+|:---:|:---:|:---:|
+| [![My Skills](https://skillicons.dev/icons?i=python,regex)] | [106bombyx][106bombyx](https://github.com/Garoverr/106bombyx) | Analysis of the population dynamics of silk moths (Bombyx)|
+| [![My Skills](https://skillicons.dev/icons?i=python,regex)] | [107transfer][107transfer](https://github.com/Garoverr/107transfer) | Optimization of Transfer Function Computations |
