@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Garoverr /Alias/ Jacques Sapin.
-- 👀 I’m a TECK01 at EPITECH.
+- 👀 I’m a TECK02 at EPITECH.
 - 🌱 I’m currently learning C and professional life !
 - 📫 You can reach me by mail :  jacques.sapin@epitech.eu
 
