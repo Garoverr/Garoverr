@@ -13,3 +13,4 @@
 | ![My Skills](https://skillicons.dev/icons?i=python) | [108trigo]->[108trigo](https://github.com/Garoverr/108trigo) | Matrix Power Series |
 | ![My Skills](https://skillicons.dev/icons?i=python) | [109titration]->[109titration](https://github.com/Garoverr/109titration) | Equivalence Point's Calculation for Benzoic Acid |
 | ![My Skills](https://skillicons.dev/icons?i=python) | [201yams]->[201yams](https://github.com/Garoverr/201yams) | Probability of a yams combination in the next round |
+| ![My Skills](https://skillicons.dev/icons?i=haskell) | [Wolfram]->[wolfram](https://github.com/Garoverr/wolfram) | Haskell 2D cellular automata |
