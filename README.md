@@ -1,6 +1,11 @@
-- 👋 Hi, I’m @Garoverr /Alias/ Jacques Sapin.
-- 👀 I’m a TECK03 at EPITECH.
-- 📫 You can reach me by mail :  jacques.sapin@epitech.eu
+Jacques Sapin
+
+Epitech Student, 3rd year
+
+contact:
+
+  `jacques.sapin@epitech.eu`
+
 
 
 ## some math projects from Epitech
