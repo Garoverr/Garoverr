@@ -2,9 +2,7 @@ Jacques Sapin
 
 Epitech Student, 3rd year
 
-contact:
-
-  `jacques.sapin@epitech.eu`
+contact: `jacques.sapin@epitech.eu`
 
 
 
